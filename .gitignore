@@ -10,6 +10,10 @@
 # Normal rules (sorted alphabetically)
 #
 out/*
+tc/*
+tc/clanhg*
+build.sh
+log.txt
 .*
 *.a
 *.asn1.[ch]
